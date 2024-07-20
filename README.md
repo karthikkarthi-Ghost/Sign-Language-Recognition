@@ -57,7 +57,7 @@ To use the Sign-Language-Recognition system, follow these steps:
 
 1. **Run the Application**
    ```bash
-   python run_app.py
+   python ROIinOpenCV.py
    ```
 
 2. **Interact with the System**
